@@ -2,6 +2,8 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.1.
 
+This project was build as part of SoftUni's Angular module.
+
 ## Development server
 
 To start a local development server, run:
